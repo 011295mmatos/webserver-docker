@@ -1,0 +1,12 @@
+local     apache2
+[
+    {
+        "CreatedAt": "2023-09-19T12:57:00-03:00",
+        "Driver": "local",
+        "Labels": null,
+        "Mountpoint": "/var/lib/docker/volumes/apache2/_data",
+        "Name": "apache2",
+        "Options": null,
+        "Scope": "local"
+    }
+]
